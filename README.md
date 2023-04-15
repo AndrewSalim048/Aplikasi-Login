@@ -4,4 +4,4 @@ Sub-bab studi kasus pengarsipan versi perangkat lunak dicoding. Link: https://ww
 Alur Fitur Login:
 1. Memasukkan email dan password.
 2. Memvalidasi masukan.
-3. Menampilkan halaman beranda.
+3. Menampilkan halaman home.
